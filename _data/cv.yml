@@ -1,97 +1,221 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+---
+basics:
+  name: Sarah Schyck
+  label: Postdoctoral Researcher at TUDelft
+  image: ''
+  email: s.schyck@gmail.com
+  phone: ''
+  url: ''
+  summary: 'Currently, I am a Postdoctoral Researcher at TUDelft in the Netherlands,
+    investigating fungal systems. I also have a robust research background with experience
+    in colloidal materials and soft matter, high pressure physics, and nanotechnology.
+    Throughout my PhD and MSc programs, I have utilized several synchrotron facilities
+    throughout the U.S., Canada, and France for a wide variety of x-ray techniques,
+    including: SAXS/WAXS, Crystallography, Mid- and Far-IR spectroscopy, and absorption
+    and emission spectroscopy.'
+  location:
+    countryCode: US
+    address: Netherlands
+  profiles:
+  - network: LinkedIn
+    username: sschyck
+    url: https://www.linkedin.com/in/sschyck/
+work:
+- name: Delft University of Technology
+  position: Postdoctoral Researcher
+  startDate: '2023'
+  endDate: ''
+  highlights: []
+  url: https://www.shapingmatterlab.com/
+  location: Delft, South Holland, Netherlands
+- name: Advanced Soft Matter | TU Delft
+  position: PHD Student
+  startDate: '2019'
+  endDate: '2023'
+  highlights: []
+  url: https://www.linkedin.com/company/advanced-soft-matter-tu-delft/
+  location: Delft Area, Netherlands
+- name: University of Nevada, Las Vegas
+  position: Graduate Research Assistant
+  startDate: '2016'
+  endDate: '2018'
+  highlights: []
+  url: https://www.linkedin.com/school/officialunlv/
+  location: Las Vegas, Nevada Area
+- name: Savannah River National Laboratory
+  position: LSE Intern
+  startDate: '2016'
+  endDate: '2016'
+  highlights: []
+  url: https://www.linkedin.com/company/savannah-river-national-laboratory/
+- name: Savannah River National Laboratory
+  position: ORAU Intern
+  startDate: '2016'
+  endDate: '2016'
+  highlights: []
+  url: https://www.linkedin.com/company/savannah-river-national-laboratory/
+education:
+- institution: Technische Universiteit Delft
+  area: Chemical Engineering
+  studyType: Doctor of Philosophy - PhD
+  startDate: '2019'
+  endDate: '2023'
+  score: ''
+  courses: []
+- institution: University of Nevada-Las Vegas
+  area: Physics
+  studyType: Master’s Degree
+  startDate: '2016'
+  endDate: '2018'
+  score: ''
+  courses: []
+- institution: The University of Georgia
+  area: Physics
+  studyType: Bachelor of Science (B.S.)
+  startDate: '2012'
+  endDate: '2015'
+  score: ''
+  courses: []
+awards: []
+certificates: []
+publications:
+- name: Shape-Selective Palladium and Palladium-Composite Nanomaterials
+  publisher: Springer International Publishing
+  releaseDate: '2022-02-09'
+  summary: Part of the The Minerals, Metals & Materials Series book series (MMMS)
+  url: https://doi.org/10.1007/978-3-030-92567-3_15
+- name: Engineered Nano-antenna Susceptor as Efficient Platforms For Efficient Uptake
+    and Release of Analytes
+  publisher: Springer, Cham
+  releaseDate: '2022-02-09'
+  summary: Part of the The Minerals, Metals & Materials Series book series (MMMS)
+  url: https://doi.org/10.1007/978-3-030-92567-3_22
+- name: Self-assembly of colloidal superballs under spherical confinement of a drying
+    droplet
+  publisher: JCIS Open
+  releaseDate: '2022-01-04'
+  summary: Understanding the relationship between colloidal building block shape and
+    self-assembled material structure is important for the development of novel materials
+    by self-assembly. In this regard, colloidal superballs are unique building blocks
+    because their shape can smoothly transition between spherical and cubic. Assembly
+    of colloidal superballs under spherical confinement results in macroscopic clusters
+    with ordered internal structure. By utilizing Small Angle X-Ray Scattering (SAXS),
+    we probe the internal structure of colloidal superball dispersion droplets during
+    confinement. We observe and identify four distinct drying regimes that arise during
+    compression via evaporating droplets, and we track the development of the assembled
+    macrostructure. As the superballs assemble, we found that they arrange into the
+    predicted paracrystalline, rhombohedral C1-lattice that varies by the constituent
+    superballs’ shape. This provides insights in the behavior between confinement
+    and particle shape that can be applied in the development of new functional materials.
+  url: https://doi.org/10.1016/j.jciso.2021.100037
+- name: High pressure behavior of mercury difluoride (HgF2)
+  publisher: Chemical Physics Letters
+  releaseDate: '2019-03-20'
+  summary: The pressure-induced cubic → orthorhombic transition occurring in HgF2
+    was investigated via X-ray diffraction and density functional theory. The predicted,
+    ambient cubic (Fm-3m) fluorite structure of HgF2, can be obtained using a high-pressure
+    ramp purification process of HgF2 mixed with XeF2. Subsequently, the purified
+    HgF2 underwent a phase transition from the fluorite to the orthorhombic cotunnite-type
+    structure near 4.7 GPa, persisting to 63 GPa. An equation of state fit yielded
+    a bulk modulus K0 of 94.4 GPa for the fluorite-type structure and zero-pressure
+    volume V0 of 168.6 Å3, and K0 = 92.9 GPa and V0 = 156.4 Å3 for the cotunnite-type
+    structure.
+  url: https://doi.org/10.1016/j.cplett.2019.03.045
+- name: 'Fluorine chemistry at extreme conditions: Possible synthesis of  HgF4'
+  publisher: Papers in Physics
+  releaseDate: '2019-02-27'
+  summary: 'By irradiating a pressurized mixture of a fluorine-bearing compound (XeF2)
+    and HgF2 with synchrotron hard x-rays (>7 keV) inside a diamond anvil cell, we
+    have observed dramatic changes in the far-infrared spectrum within the 30-35 GPa
+    pressure range which suggest that we may have formed HgF4 in the following way:
+    XeF2+hv−→Xe+F2 (photochemically) and HgF2+F2→HgF4 (30 GPa < P < 35 GPa). This
+    lends credence to recent theoretical calculations by Botana et al. that suggest
+    that Hg may behave as a transition metal at high pressure in an environment with
+    an excess of molecular fluorine. The spectral changes were observed to be reversible
+    during pressure cycling above and below the above mentioned pressure range until
+    a certain point when we suspect that molecular fluorine diffused out of the sample
+    at lower pressure. Upon pressure release, HgF2 and trace XeF2 were observed to
+    be remaining in the sample chamber suggesting that much of the Xe and F2 diffused
+    and leaked out from the sample chamber.'
+  url: https://doi.org/10.4279/pip.110001
+- name: Synthesis of a novel strontium-based wide-bandgap semiconductor via X-ray
+    photochemistry under extreme conditions
+  publisher: Journal of Materials Chemistry C
+  releaseDate: '2018-11-02'
+  summary: The synthesis and characterization of a novel, low cost, amorphous wide-bandgap
+    semiconductor via X-ray induced decomposition of strontium oxalate at high pressure
+    have been demonstrated. By means of IR spectroscopy, the final product is identified
+    as a mixture of strontium carbonate, strontium oxalate and CO-derived materials.
+    Band gap measurements demonstrate that the final product exhibits a much lower
+    band gap (2.45 eV) than the initial strontium oxalate powder (4.07 eV), suggesting
+    that the synthesized material can be highly useful in electronic and optical applications.
+  url: https://doi.org/10.1039/C8TC04496A
+- name: High-pressure-assisted X-ray-induced damage as a new route for chemical and
+    structural synthesis
+  publisher: Physical Chemistry Chemical Physics
+  releaseDate: '2018-05-22'
+  summary: X-ray induced damage has been known for decades and has largely been viewed
+    as a tremendous nuisance. We, on the other hand, harness the highly ionizing and
+    penetrating properties of hard X-rays to initiate novel decomposition and synthetic
+    chemistry. Here, we show that powdered cesium oxalate monohydrate pressurized
+    to ≤0.5 GPa and irradiated with X-rays of energies near the cesium K-edge undergoes
+    molecular and structural transformations with one of the final products exhibiting
+    a new type of bcc crystal structure that has previously not been observed. Additionally,
+    based on cascades of ultrafast electronic relaxation steps triggered by the absorption
+    of one X-ray photon, we propose a model explaining the X-ray induced damage of
+    multitype bounded matter. As X-rays are ubiquitous, these results show promise
+    in the preparation of novel compounds and novel structures that are inaccessible
+    via conventional methods. They may offer insight into the formation of complex
+    organic compounds in outer space.
+  url: https://doi.org/10.1039/C8CP02119H
+skills:
+- name: Fluorescence Microscopy
+  level: ''
+  keywords: []
+- name: Laboratory Skills
+  level: ''
+  keywords: []
+- name: Colloids
+  level: ''
+  keywords: []
+- name: UV/Vis Spectroscopy
+  level: ''
+  keywords: []
+- name: Teaching
+  level: ''
+  keywords: []
+- name: Microsoft Excel
+  level: ''
+  keywords: []
+- name: LaTeX
+  level: ''
+  keywords: []
+- name: Research
+  level: ''
+  keywords: []
+- name: X-ray crystallography
+  level: ''
+  keywords: []
+- name: SAXS
+  level: ''
+  keywords: []
+- name: X-ray IR Spectroscopy
+  level: ''
+  keywords: []
+- name: Nanomaterials
+  level: ''
+  keywords: []
+- name: Scanning Electron Microscopy
+  level: ''
+  keywords: []
+- name: Microsoft Word
+  level: ''
+  keywords: []
+- name: Critical Thinking
+  level: ''
+  keywords: []
+languages:
+- language: English
+  fluency: Native Speaker
+- language: Dutch
+  fluency: Elementary

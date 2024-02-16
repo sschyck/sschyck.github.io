@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: A Postdoc at TUDelft, Aerospace. Working on Fungal Materials.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: >
+    <p></p>
+    <p></p>
+    <p></p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there! Thanks for stopping by!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Sarah, a motivated PhD with a background in utilizing wet chemistry techniques for the synthesis of colloidal materials. My academic journey has been dedicated to the exploration of various scientific techniques, including X-ray diffraction, electron microscopy, and more. Currently, I'm pursuing my PhD in Chemical Engineering at TU Delft, Netherlands, focusing on the preparation and out-of-equilibrium assembly of anisotropic and magnetic microparticles.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I'm not immersed in the world of research, I enjoy tennis, hiking, and board games. Whether it's a beach volleyball match, exploring new places, or spending quality time with friends and family, I find inspiration and balance outside the lab.
+
+Feel free to reach out if you'd like to connect, collaborate, or learn more about my research. I'm always excited to engage with fellow researchers and explore new opportunities. Looking forward to connecting with you!

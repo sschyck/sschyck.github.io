@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-11-10 07:15:00 -0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+We published our work with SAXS on the self-assembly of magnetic superball particles in evaporting droplets! 
+[Check it out now!](https://iopscience-iop-org.tudelft.idm.oclc.org/article/10.1088/2515-7639/ad08d3 "Droplet-based assembly of magnetic superballs")
