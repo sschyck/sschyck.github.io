@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-09-06 15:30
+date: 2024-07-12 15:30
 inline: true
 related_posts: false
 ---
 
-I successfully defended my PhD thesis on September 6th! I'm now Dr. Schyck!
+We published a review on fungi signaling as my first article with the [Shaping Matter Lab](https://www.shapingmatterlab.com/). [Click here to check it out now!](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202400104)
