@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2023-11-01 07:15
+date: 2025-04-02 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I started as a postdoc with the [Shaping Matter Lab](https://www.shapingmatterlab.com/). Looking forward to joining for some exciting research. :sparkles: 
-
-
+<a href="https://doi.org/10.1039/D5SM00061K">New paper out!</a> 🧲 We present a simple method for making magnetic polymer microparticles that can be stretched into ellipsoids while keeping their magnetic response.
