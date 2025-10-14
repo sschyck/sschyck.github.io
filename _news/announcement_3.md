@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-12 15:30
+date: 2025-10-10 15:30
 inline: true
 related_posts: false
 ---
 
-We published a review on fungi signaling as my first article with the [Shaping Matter Lab](https://www.shapingmatterlab.com/). [Check it out now!](https://onlinelibrary.wiley.com/doi/10.1002/gch2.202400104 "Harnessing Fungi Signaling in Living Composites")
+How fast can hematite particles swim? :swimmer: We took a look and published the results in Applied Materials Today. [Check it out now!](https://www.sciencedirect.com/science/article/pii/S2352940725003658 "Enhancing the active motion of hematite microswimmers")
