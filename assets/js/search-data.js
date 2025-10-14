@@ -60,14 +60,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-we-published-a-review-on-fungi-signaling-as-my-first-article-with-the-shaping-matter-lab-check-it-out-now",
-          title: 'We published a review on fungi signaling as my first article with the...',
-          description: "",
-          section: "News",},{id: "news-new-paper-out-we-present-a-simple-method-for-making-magnetic-polymer-microparticles-that-can-be-stretched-into-ellipsoids-while-keeping-their-magnetic-response",
+            },},{id: "news-new-paper-out-we-present-a-simple-method-for-making-magnetic-polymer-microparticles-that-can-be-stretched-into-ellipsoids-while-keeping-their-magnetic-response",
           title: 'New paper out! 🧲 We present a simple method for making magnetic polymer...',
           description: "",
           section: "News",},{id: "news-our-recent-article-on-delightfully-deformable-magnetic-microparticles-has-been-featured-on-the-cover-of-soft-matter",
           title: 'Our recent article on delightfully deformable magnetic microparticles has been featured on the...',
+          description: "",
+          section: "News",},{id: "news-how-fast-can-hematite-particles-swim-swimmer-we-took-a-look-and-published-the-results-in-applied-materials-today-check-it-out-now",
+          title: 'How fast can hematite particles swim? :swimmer: We took a look and published...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
