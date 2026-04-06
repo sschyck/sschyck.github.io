@@ -1,10 +1,11 @@
 cv:
   name: Sarah Schyck
-  title: Researcher
+  headline: Researcher
   email: s.n.schyck@tudelft.nl
+  website: https://sschyck.github.io/
   location: Delft, NLD
-  image: "/assets/img/prof_pic.jpg"
-  summary: "I am a scientist driven by the question of how materials become more than the sum of their parts. My work has ranged from studying chemistry under high-pressure states to designing colloidal assemblies, and today, it focuses on fungi-based living materials that merge biological and synthetic features."
+  image: /assets/img/prof_pic.jpg
+
 
   social_networks:
     - network: Bluesky
@@ -20,6 +21,8 @@ cv:
     countryCode: NLD
 
   sections:
+    summary:
+      - I am a scientist driven by the question of how materials become more than the sum of their parts. My work has ranged from studying chemistry under high-pressure states to designing colloidal assemblies, and today, it focuses on fungi-based living materials that merge biological and synthetic features.
     Education:
       - institution: Delft University of Technology
         location: Delft, Neterlands
