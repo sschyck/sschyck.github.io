@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-04-02 15:59:00-0400
+date: 2025-04-02 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-We’re used to materials being made. But what if they could grow into their function? 🍄 <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202530836">In our latest work, now published in Advanced Functional Materials</a>, we combined mycelium (living fungal networks) with 3D printing to create materials that continue developing after fabrication.
+<a href="https://doi.org/10.1039/D5SM00061K">New paper out!</a> 🧲 We present a simple method for making magnetic polymer microparticles that can be stretched into ellipsoids while keeping their magnetic response.
