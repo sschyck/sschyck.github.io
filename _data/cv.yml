@@ -1,22 +1,22 @@
 cv:
   name: Sarah Schyck
-  label: Researcher
+  title: Researcher
   email: s.n.schyck@tudelft.nl
   location: Delft, NLD
-  image: "prof_pic"
-  summary: I am a scientist driven by the question of how materials become more than the sum of their parts. My work has ranged from studying chemistry under high-pressure states to designing colloidal assemblies, and today, it focuses on fungi-based living materials that merge biological and synthetic features.
+  image: "/assets/img/prof_pic.jpg"
+  summary: "I am a scientist driven by the question of how materials become more than the sum of their parts. My work has ranged from studying chemistry under high-pressure states to designing colloidal assemblies, and today, it focuses on fungi-based living materials that merge biological and synthetic features."
 
   social_networks:
-    - network: bluesky
+    - network: Bluesky
       username: sschyck.bsky.social
     - network: LinkedIn
       username: /sschyck/
 
   address:
-    street: 
+    street: Kluyverweg 1
     city: Delft
     region: Netherlands 
-    postalCode: 
+    postalCode: 2629HS
     countryCode: NLD
 
   sections:
@@ -61,7 +61,7 @@ means of oblique angle physical vapor deposition."
         position: Postdoctoral Researcher
         location: Delft, the Netherlands
         start_date: 2023
-        end_date: Current
+        end_date: present
         summary: "Led research on living composites and microscale investigation of fungal
 signaling. Mentored PhD and MSc students, guiding experimental design
 and data analysis."
