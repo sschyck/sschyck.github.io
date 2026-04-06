@@ -4,7 +4,7 @@ cv:
   email: s.n.schyck@tudelft.nl
   website: https://sschyck.github.io/
   location: Delft, NLD
-  image: /assets/img/prof_pic.jpg
+  photo: /assets/img/prof_pic.jpg
 
 
   social_networks:
@@ -12,13 +12,6 @@ cv:
       username: sschyck.bsky.social
     - network: LinkedIn
       username: /sschyck/
-
-  address:
-    street: Kluyverweg 1
-    city: Delft
-    region: Netherlands 
-    postalCode: 2629HS
-    countryCode: NLD
 
   sections:
     summary:
@@ -32,8 +25,7 @@ cv:
         start_date: 2019
         end_date: 2023
         highlights:
-          - "Thesis title: Anisotropic and Magnetic Microparticles; Preparation and Out-of-
-Equilibrium Assembly."
+          - "Thesis title: Anisotropic and Magnetic Microparticles; Preparation and Out-of-Equilibrium Assembly."
 
       - institution: University of Nevada, Las Vegas
         location: Las Vegas, USA
@@ -43,8 +35,7 @@ Equilibrium Assembly."
         start_date: 2016
         end_date: 2018
         highlights:
-          - "Thesis title: Studies of Inner-shell Chemistry of Mercury Based Compounds
-under Extreme Conditions."
+          - "Thesis title: Studies of Inner-shell Chemistry of Mercury Based Compounds under Extreme Conditions."
 
       - institution: University of Georgia
         location: Athens, USA
@@ -56,8 +47,7 @@ under Extreme Conditions."
         highlights:
           - "Projects:"
           - "Effect of Organic Hole Scavengers on the Photochromism of Bi2WO6"
-          -  "Growth of Cu nanofilms on polystyrene bead mono-layer substrates by
-means of oblique angle physical vapor deposition."
+          -  "Growth of Cu nanofilms on polystyrene bead mono-layer substrates by means of oblique angle physical vapor deposition."
 
     Experience:
       - company: Delft University of Technology
@@ -65,9 +55,7 @@ means of oblique angle physical vapor deposition."
         location: Delft, the Netherlands
         start_date: 2023
         end_date: present
-        summary: "Led research on living composites and microscale investigation of fungal
-signaling. Mentored PhD and MSc students, guiding experimental design
-and data analysis."
+        summary: "Led research on living composites and microscale investigation of fungal signaling. Mentored PhD and MSc students, guiding experimental design and data analysis."
 
 
       - company: Savannah River National Lab
@@ -75,8 +63,7 @@ and data analysis."
         location: Aiken, USA
         start_date: 2016
         end_date: 2016
-        summary: "Synthesized and characterized noble metal nanoparticles, studying their
-nucleation and growth mechanisms."
+        summary: "Synthesized and characterized noble metal nanoparticles, studying their nucleation and growth mechanisms."
 
 
       - company: University of Nevada, Las Vegas
