@@ -90,7 +90,6 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-
 blog_name: Softly Speaking # blog_name will be displayed in your blog page
 blog_description: A soft matter scientist’s take on the weird, wobbly, and wonderfully magnetic world of materials.
 permalink: /blog/:year/:title/

@@ -4,8 +4,6 @@ cv:
   email: s.n.schyck@tudelft.nl
   website: https://sschyck.github.io/
   location: Delft, NLD
-  photo: prof_pic.jpg
-
 
   social_networks:
     - network: Bluesky
@@ -47,7 +45,7 @@ cv:
         highlights:
           - "Projects:"
           - "Effect of Organic Hole Scavengers on the Photochromism of Bi2WO6"
-          -  "Growth of Cu nanofilms on polystyrene bead mono-layer substrates by means of oblique angle physical vapor deposition."
+          - "Growth of Cu nanofilms on polystyrene bead mono-layer substrates by means of oblique angle physical vapor deposition."
 
     Experience:
       - company: Delft University of Technology
@@ -57,14 +55,12 @@ cv:
         end_date: present
         summary: "Led research on living composites and microscale investigation of fungal signaling. Mentored PhD and MSc students, guiding experimental design and data analysis."
 
-
       - company: Savannah River National Lab
         position: ORAU and LSE Intern
         location: Aiken, USA
         start_date: 2016
         end_date: 2016
         summary: "Synthesized and characterized noble metal nanoparticles, studying their nucleation and growth mechanisms."
-
 
       - company: University of Nevada, Las Vegas
         position: Teaching Assistant
@@ -90,14 +86,13 @@ cv:
         authors:
           - Sarah Schyck
           - Janne-Mieke Meijer
-          - Lucia Baldauf 
+          - Lucia Baldauf
           - Peter Schall
           - Andrei V. Petukhov
           - Laura Rossi
         publisher: JCIS Open
         releaseDate: 2022
         url: https://www.sciencedirect.com/science/article/pii/S2666934X21000362
-
 
       - title: Shaping of Biohybrid Functional Living Materials
         authors:
@@ -108,7 +103,6 @@ cv:
         publisher: Advanced Functional Materials
         releaseDate: 2026
         url: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202530836
-
 
       - title: Enhancing the active motion of hematite microswimmers
         authors:
@@ -127,7 +121,7 @@ cv:
           - Laura Rossi
         publisher: Soft Matter
         releaseDate: 2025
-        url: https://pubs.rsc.org/en/content/articlehtml/2025/sm/d5sm00061k 
+        url: https://pubs.rsc.org/en/content/articlehtml/2025/sm/d5sm00061k
 
       - title: Harnessing fungi signaling in living composites
         authors:
@@ -142,7 +136,7 @@ cv:
           - Kunal Masania
         publisher: Global Challenges
         releaseDate: 2024
-        url: https://onlinelibrary.wiley.com/doi/abs/10.1002/gch2.202400104  
+        url: https://onlinelibrary.wiley.com/doi/abs/10.1002/gch2.202400104
 
       - title: Droplet-based assembly of magnetic superballs
         authors:
@@ -153,7 +147,7 @@ cv:
           - L Rossi
         publisher: "Journal of Physics: Materials"
         releaseDate: 2024
-        url: https://iopscience.iop.org/article/10.1088/2515-7639/ad08d3/meta      
+        url: https://iopscience.iop.org/article/10.1088/2515-7639/ad08d3/meta
 
       - title: High pressure behavior of mercury difluoride (HgF2)
         authors:
@@ -163,8 +157,7 @@ cv:
           - Michael Pravica
         publisher: Chemical Physics Letters
         releaseDate: 2019
-        url: https://www.sciencedirect.com/science/article/pii/S0009261419302337     
-
+        url: https://www.sciencedirect.com/science/article/pii/S0009261419302337
 
     Skills:
       - name: Material Characterization
@@ -189,7 +182,3 @@ cv:
 
       - name: Dutch
         summary: "A2"
-
-
-
-

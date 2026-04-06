@@ -27,6 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm always curious about how the materials around us behave, transform, and, now, even grow. I received my PhD in Chemical Engineering from TUDelft, exploring how we can prepare and self-assemble colloidal particles. Today, my focus is on living materials and how the architecture of the natural world can be combined with synthetic design to create biohybrid systems. 
+I'm always curious about how the materials around us behave, transform, and, now, even grow. I received my PhD in Chemical Engineering from TUDelft, exploring how we can prepare and self-assemble colloidal particles. Today, my focus is on living materials and how the architecture of the natural world can be combined with synthetic design to create biohybrid systems.
 
-Whether you're working in soft matter, materials science, bio fabrication, or something else entirely exciting, I'm always open to connecting and exchanging ideas. 
+Whether you're working in soft matter, materials science, bio fabrication, or something else entirely exciting, I'm always open to connecting and exchanging ideas.
