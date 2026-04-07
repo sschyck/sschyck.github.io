@@ -90,7 +90,9 @@
       "startDate": "2012",
       "endDate": "2015",
       "score": "",
-      "courses": ["Projects: Effect of Organic Hole Scavengers on the Photochromism of Bismuth-tungensten oxide and Growth of Cu nanofilms on polystyrene bead mono layer substrates by means of oblique angle physical vapor deposition."]
+      "courses": [
+        "Projects: Effect of Organic Hole Scavengers on the Photochromism of Bismuth-tungensten oxide and Growth of Cu nanofilms on polystyrene bead mono layer substrates by means of oblique angle physical vapor deposition."
+      ]
     }
   ],
   "awards": [],
@@ -233,4 +235,4 @@
       "fluency": "Elementary"
     }
   ]
-	}
+}
