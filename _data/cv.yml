@@ -22,7 +22,7 @@ cv:
   sections:
     Education:
       - institution: Delft University of Technology
-        location: Delft, Neterlands
+        location: Delft, The Netherlands
         url: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering
         area: Chemical Engineering
         studyType: PhD
@@ -33,7 +33,7 @@ cv:
             Equilibrium Assembly."
 
       - institution: University of Nevada, Las Vegas
-        location: Las Vegas, USA
+        location: Las Vegas, NV, USA
         url: https://www.physics.unlv.edu/
         area: Physics
         studyType: MSc
@@ -44,7 +44,7 @@ cv:
             under Extreme Conditions."
 
       - institution: University of Georgia
-        location: Athens, USA
+        location: Athens, GA, USA
         url: https://www.physast.uga.edu/
         area: Physics
         studyType: BSc
@@ -59,7 +59,7 @@ cv:
     Experience:
       - company: Delft University of Technology
         position: Postdoctoral Researcher
-        location: Delft, the Netherlands
+        location: Delft, The Netherlands
         start_date: 2023
         end_date: Current
         summary: "Led research on living composites and microscale investigation of fungal
@@ -68,7 +68,7 @@ cv:
 
       - company: Savannah River National Lab
         position: ORAU and LSE Intern
-        location: Aiken, USA
+        location: Aiken, SC, U.S.A.
         start_date: 2016
         end_date: 2016
         summary: "Synthesized and characterized noble metal nanoparticles, studying their
@@ -76,7 +76,7 @@ cv:
 
       - company: University of Nevada, Las Vegas
         position: Teaching Assistant
-        location: Zurich, Switzerland
+        location: Las Vegas, NV, U.S.A.
         start_date: 2016-01-01
         end_date: 2018-05-01
         summary: Two introductory physics laboratory sections per semester.
@@ -94,17 +94,6 @@ cv:
         summary: "Awarded for project: 'From Graveyard to Growth: Mycelium-based Recycling of E-waste Materials'"
 
     Publications:
-      - title: Self-assembly of colloidal superballs under spherical confinement of a drying droplet
-        authors:
-          - Sarah Schyck
-          - Janne-Mieke Meijer
-          - Lucia Baldauf
-          - Peter Schall
-          - Andrei V. Petukhov
-          - Laura Rossi
-        publisher: JCIS Open
-        releaseDate: 2022
-        url: https://www.sciencedirect.com/science/article/pii/S2666934X21000362
 
       - title: Shaping of Biohybrid Functional Living Materials
         authors:
@@ -160,6 +149,18 @@ cv:
         publisher: "Journal of Physics: Materials"
         releaseDate: 2024
         url: https://iopscience.iop.org/article/10.1088/2515-7639/ad08d3/meta
+
+      - title: Self-assembly of colloidal superballs under spherical confinement of a drying droplet
+        authors:
+          - Sarah Schyck
+          - Janne-Mieke Meijer
+          - Lucia Baldauf
+          - Peter Schall
+          - Andrei V. Petukhov
+          - Laura Rossi
+        publisher: JCIS Open
+        releaseDate: 2022
+        url: https://www.sciencedirect.com/science/article/pii/S2666934X21000362
 
       - title: High pressure behavior of mercury difluoride (HgF2)
         authors:
