@@ -1,97 +1,196 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+cv:
+  name: Sarah Schyck
+  label: Researcher
+  email: s.n.schyck@tudelft.nl
+  location: Delft, NLD
+  image: "prof_pic"
+  summary: I am a scientist driven by the question of how materials become more than the sum of their parts. My work has ranged from studying chemistry under high-pressure states to designing colloidal assemblies, and today, it focuses on fungi-based living materials that merge biological and synthetic features.
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+  social_networks:
+    - network: bluesky
+      username: sschyck.bsky.social
+    - network: LinkedIn
+      username: /sschyck/
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+  address:
+    street:
+    city: Delft
+    region: Netherlands
+    postalCode:
+    countryCode: NLD
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+  sections:
+    Education:
+      - institution: Delft University of Technology
+        location: Delft, Neterlands
+        url: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/chemical-engineering
+        area: Chemical Engineering
+        studyType: PhD
+        start_date: 2019
+        end_date: 2023
+        highlights:
+          - "Thesis title: Anisotropic and Magnetic Microparticles; Preparation and Out-of-
+            Equilibrium Assembly."
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+      - institution: University of Nevada, Las Vegas
+        location: Las Vegas, USA
+        url: https://www.physics.unlv.edu/
+        area: Physics
+        studyType: MSc
+        start_date: 2016
+        end_date: 2018
+        highlights:
+          - "Thesis title: Studies of Inner-shell Chemistry of Mercury Based Compounds
+            under Extreme Conditions."
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+      - institution: University of Georgia
+        location: Athens, USA
+        url: https://www.physast.uga.edu/
+        area: Physics
+        studyType: BSc
+        start_date: 2012
+        end_date: 2015
+        highlights:
+          - "Projects:"
+          - "Effect of Organic Hole Scavengers on the Photochromism of Bi2WO6"
+          - "Growth of Cu nanofilms on polystyrene bead mono-layer substrates by
+            means of oblique angle physical vapor deposition."
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    Experience:
+      - company: Delft University of Technology
+        position: Postdoctoral Researcher
+        location: Delft, the Netherlands
+        start_date: 2023
+        end_date: Current
+        summary: "Led research on living composites and microscale investigation of fungal
+          signaling. Mentored PhD and MSc students, guiding experimental design
+          and data analysis."
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+      - company: Savannah River National Lab
+        position: ORAU and LSE Intern
+        location: Aiken, USA
+        start_date: 2016
+        end_date: 2016
+        summary: "Synthesized and characterized noble metal nanoparticles, studying their
+          nucleation and growth mechanisms."
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+      - company: University of Nevada, Las Vegas
+        position: Teaching Assistant
+        location: Zurich, Switzerland
+        start_date: 2016-01-01
+        end_date: 2018-05-01
+        summary: Two introductory physics laboratory sections per semester.
+        highlights:
+          - "Non-calculus based physics I"
+          - "Calculus-based electromagnetism"
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    Awards:
+      - title: NWO XS Grant
+        authors:
+          - "Dutch Research Council (NWO)"
+        date: 2026
+        awarder: Dutch Research Council (NWO)
+        url: https://www.nwo.nl/en/news/72-grants-for-the-open-competition-domain-science-xs-round-25-3
+        summary: "Awarded for project: 'From Graveyard to Growth: Mycelium-based Recycling of E-waste Materials'"
+
+    Publications:
+      - title: Self-assembly of colloidal superballs under spherical confinement of a drying droplet
+        authors:
+          - Sarah Schyck
+          - Janne-Mieke Meijer
+          - Lucia Baldauf
+          - Peter Schall
+          - Andrei V. Petukhov
+          - Laura Rossi
+        publisher: JCIS Open
+        releaseDate: 2022
+        url: https://www.sciencedirect.com/science/article/pii/S2666934X21000362
+
+      - title: Shaping of Biohybrid Functional Living Materials
+        authors:
+          - Sarah Schyck
+          - Mark Ablonczy
+          - Sourav Patranabish
+          - Kunal Masania
+        publisher: Advanced Functional Materials
+        releaseDate: 2026
+        url: https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202530836
+
+      - title: Enhancing the active motion of hematite microswimmers
+        authors:
+          - Sarah Schyck
+          - Silvana A Caipa Cure
+          - Stefano Sacanna
+          - Laura Rossi
+        publisher: Applied Materials Today
+        releaseDate: 2025
+        url: https://www.sciencedirect.com/science/article/pii/S2352940725003658
+
+      - title: Reshapable magnetic particles for morphology-controlled soft systems
+        authors:
+          - Sarah Schyck
+          - Nitin Rajendra Madam
+          - Laura Rossi
+        publisher: Soft Matter
+        releaseDate: 2025
+        url: https://pubs.rsc.org/en/content/articlehtml/2025/sm/d5sm00061k
+
+      - title: Harnessing fungi signaling in living composites
+        authors:
+          - Sarah Schyck
+          - Pietro Marchese
+          - Muhamad Amani
+          - Mark Ablonczy
+          - Linde Spoelstra
+          - Mitchell Jones
+          - Yaren Bathaei
+          - Alexander Bismarck
+          - Kunal Masania
+        publisher: Global Challenges
+        releaseDate: 2024
+        url: https://onlinelibrary.wiley.com/doi/abs/10.1002/gch2.202400104
+
+      - title: Droplet-based assembly of magnetic superballs
+        authors:
+          - Sarah Schyck
+          - Janne Mieke Meijer
+          - MP M Schelling
+          - Andrei V Petukhov
+          - L Rossi
+        publisher: "Journal of Physics: Materials"
+        releaseDate: 2024
+        url: https://iopscience.iop.org/article/10.1088/2515-7639/ad08d3/meta
+
+      - title: High pressure behavior of mercury difluoride (HgF2)
+        authors:
+          - Sarah Schyck
+          - Egor Evlyukhin
+          - Eunja Kim
+          - Michael Pravica
+        publisher: Chemical Physics Letters
+        releaseDate: 2019
+        url: https://www.sciencedirect.com/science/article/pii/S0009261419302337
+
+    Skills:
+      - name: Material Characterization
+        icon: fa-solid fa-gears
+        keywords: "Proficient in a wide range of techniques including XRD, SAXS, SEM, TEM, spectroscopy (Far-, Mid-, and FT-IR, UV-Vis, and Raman), and optical microscopy methods."
+
+      - name: Leadership and mentoring
+        icon: fa-regular fa-comments
+        keywords: "Skilled in guiding and mentoring students and PhD candidates, fostering a collaborative and productive research environment."
+
+      - name: Data analysis and visualization
+        icon: fa-solid fa-chart-area
+        keywords: "Advanced proficiency in Python and several image analysis specific packages."
+
+      - name: Communication
+        icon: fa-solid fa-person-chalkboard
+        keywords: "Effective in summarizing complex information and engaging with the scientific community through presentations at international conferences and a leading role in manuscript publication."
+
+    Languages:
+      - name: English
+        summary: "Native speaker"
+
+      - name: Dutch
+        summary: "A2"
