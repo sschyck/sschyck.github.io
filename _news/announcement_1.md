@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-08 15:59:00-0400
+date: 2026-06-08 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our recent article on delightfully deformable magnetic microparticles has been featured <a href="https://doi.org/10.1039/D5SM90073E">on the cover of Soft Matter</a>! 🧲💫
+Happy to have been a part of my colleagues work on topology optimization of mycelium for 3D printed structures. 🍄‍🟫 <a href="https://iopscience.iop.org/article/10.1088/1758-5090/ae7835">Hot off the press in Biofabrication.</a>
