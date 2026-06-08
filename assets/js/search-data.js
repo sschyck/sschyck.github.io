@@ -60,10 +60,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-recent-article-on-delightfully-deformable-magnetic-microparticles-has-been-featured-on-the-cover-of-soft-matter",
-          title: 'Our recent article on delightfully deformable magnetic microparticles has been featured on the...',
-          description: "",
-          section: "News",},{id: "news-how-fast-can-hematite-particles-swim-swimmer-we-took-a-look-and-published-the-results-in-applied-materials-today-check-it-out-now",
+            },},{id: "news-how-fast-can-hematite-particles-swim-swimmer-we-took-a-look-and-published-the-results-in-applied-materials-today-check-it-out-now",
           title: 'How fast can hematite particles swim? :swimmer: We took a look and published...',
           description: "",
           section: "News",},{id: "news-i-was-awarded-an-nwo-xs-grant-in-december-to-investigate-some-of-the-many-talents-of-mycelium",
@@ -71,6 +68,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-we-re-used-to-materials-being-made-but-what-if-they-could-grow-into-their-function-in-our-latest-work-now-published-in-advanced-functional-materials-we-combined-mycelium-living-fungal-networks-with-3d-printing-to-create-materials-that-continue-developing-after-fabrication",
           title: 'We’re used to materials being made. But what if they could grow into...',
+          description: "",
+          section: "News",},{id: "news-happy-to-have-been-a-part-of-my-colleagues-work-on-topology-optimization-of-mycelium-for-3d-printed-structures-hot-off-the-press-in-biofabrication",
+          title: 'Happy to have been a part of my colleagues work on topology optimization...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
