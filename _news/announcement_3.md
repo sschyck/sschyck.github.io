@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-10-10 15:30
+date: 2026-09-29
 inline: true
 related_posts: false
 ---
 
-How fast can hematite particles swim? :swimmer: We took a look and published the results in Applied Materials Today. [Check it out now!](https://www.sciencedirect.com/science/article/pii/S2352940725003658 "Enhancing the active motion of hematite microswimmers")
+How does bioelectric activity in mycelium change as it grows? :lightning: Happy to have been a coauthor on some really nice work from our group. [Check it out now!](https://rdcu.be/gfRp4RdJW7Ea "Microelectrode array measurements of fungal mycelium reveal growth‑associated electrical activity")
